@@ -18,3 +18,6 @@ Hence, I will be creating a Machine Learning Model which will take text which is
 ### Problem Statement
 
 Based on the linguistic diversity of the South African society, Having a model that can translate accurately any piece of text to it's required natural language, will go a long way in bridging the communication gap in any of her systems, encouraging inclusion and diversity, and finally enhanced productivity.
+
+
+To go to the final Notebok [Version 5.0 CLICK HERE](https://github.com/Ezysticks/south_african_language_identification/blob/main/Notebook/5.0%20EDSA%20Classification%20Hackathon%20-%20FINAL%20RELEASE.ipynb)
